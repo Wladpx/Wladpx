@@ -1,16 +1,94 @@
-## Hi there 👋
+# Wlademir Pontes Xavier
 
-<!--
-**Wladpx/Wladpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Ciência da Computação`**
 
-Here are some ideas to get you started:
+Me chamo Wlademir Pontes Xavier e atualmente curso Ciência da Computação pela UNINASSAU. Tenho interesse em desenvolvimento de software, com foco em back-end, bancos de dados e construção de APIs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco constantemente evoluir minhas habilidades práticas, criando projetos e explorando tecnologias modernas utilizadas no mercado.
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/wladpx/">
+        <img 
+            alt="LinkedIn" 
+            title="Meu LinkedIn" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="Go"
+    title="Go" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL" 
+    title="PostgreSQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Docker" 
+    title="Docker"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Postman" 
+    title="Postman"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
+  />
+</p>
