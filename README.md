@@ -70,7 +70,7 @@ Busco constantemente evoluir minhas habilidades práticas, criando projetos e ex
 />
 
 <div>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wladpx=anuraghazra&show_icons=true)
+    <imag height="180em" src="https://github-readme-stats.vercel.app/api?username=wladpx&show_icons=true&theme=dracula&include_all_commits&count_private=true"/>
 </div>
 
 <br/>
