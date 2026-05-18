@@ -69,5 +69,9 @@ Busco constantemente evoluir minhas habilidades práticas, criando projetos e ex
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" 
 />
 
+<div>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?wladpx=anuraghazra&show_icons=true)
+</div>
+
 <br/>
 <br/>
